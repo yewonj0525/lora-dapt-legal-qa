@@ -163,7 +163,7 @@ python scripts/compare_results.py --results_dir results
 | Yewon Joung | Baseline full fine-tuning, DAPT experiments (4 corpus sizes) |
 | Grace Wang | LoRA fine-tuning, results analysis |
 
-*UNC Chapel Hill — COMP 790-183: Transfer Learning (Fall 2024)*
+*UNC Chapel Hill — COMP 790-183: Transfer Learning (Fall 2025)*
 
 ---
 
